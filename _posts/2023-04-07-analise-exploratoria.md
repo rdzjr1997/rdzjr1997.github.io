@@ -4,7 +4,7 @@ title: "Análise Exploratória - Finanças do Sistema educacional dos EUA"
 author: "Paul Le"
 categories: journal
 tags: [documentation,sample]
-image: mountains.jpg
+image: USA_map.jpg
 ---
 
 Nesse post iremos realizar a análise exploratória do conjunto de dados que representa as finanças do sistema educacional dos Estados Unidos da América (EUA) de 1992 a 2016.
