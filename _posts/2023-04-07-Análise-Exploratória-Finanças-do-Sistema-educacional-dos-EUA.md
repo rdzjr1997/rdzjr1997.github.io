@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Análise Exploratória - Finanças do Sistema educacional dos EUA"
-author: "Paul Le"
+author: "Francisco José"
 categories: journal
 tags: [documentation,sample]
 image: USA_map.jpg
