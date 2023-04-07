@@ -1,19 +1,8 @@
 ---
 layout: page
-title: Welcome to Lagrange!
+title: Hello, world!
 permalink: /about
 ---
+I am a mechanical engineer currently working in the steel industry in the areas of mechanical design and maintenance, but who as a passion by data analysis and programming in general. I really enjoy to develop code for data and numerical analysis. 
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
-
-### Getting Started
-
-[Getting Started]({{ site.github.url }}{% post_url 2015-10-10-getting-started %}): getting started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
-
-### Example Content
-
-[Text and Formatting]({{ site.github.url }}{% post_url 2014-01-01-text-formatting-examples %})
-
-### Questions?
-
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Lagrange%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new).
+In addition, I am doing a master's degree at UFRJ in the area of rotordynamics including the creation of a numerical code for modeling the transient response during rotor-stator contact by the finite element method.
