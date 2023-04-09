@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Análise Exploratória - Finanças do Sistema educacional dos EUA"
+title: "Exploratory Data Analysis - Finances of the US Educational System"
 author: "Francisco José"
 categories: journal
 tags: [documentation,sample]
@@ -8,11 +8,11 @@ image: USA_map.jpg
 ---
 
 <p align="justify">	
-Nesse post iremos realizar a análise exploratória do conjunto de dados que representa as finanças do sistema educacional dos Estados Unidos da América (EUA) de 1992 a 2016.
+In this post we will perform an Exploratory Data Analysis (EDA) of the data set that represents the finances of the educational system in the United States of America (USA) from 1992 to 2016.
 </p>
 
 <p align="justify">
-Para acessar o notebook <a href="https://rdzjr1997.github.io/US_Educational_Finances_EDA">clique aqui</a>. Espero que gostem!
+To acces the notebook <a href="https://rdzjr1997.github.io/US_Educational_Finances_EDA">click here</a>. Hope you like it!
 </p>
 
 
