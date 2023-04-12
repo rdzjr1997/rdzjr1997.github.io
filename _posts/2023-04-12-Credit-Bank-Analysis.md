@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Exploratory Data Analysis - Finances of the US Educational System"
+title: "Credit Bank Analysis"
 author: "Francisco José"
 categories: journal
 tags: [documentation,sample]
