@@ -8,7 +8,7 @@ image: Pie_chart.jpg
 ---
 
 <p align="justify">	
-In this post we will perform an Exploratory Data Analysis (EDA) of the data set that represents the finances of the educational system in the United States of America (USA) from 1992 to 2016.
+This dataset shows that some customers are leaving a credit card service. So, our job will be to investigate the data and try do predict who is gonna get churned, so we can contact proactively these customers to avoid this process.
 </p>
 
 <p align="justify">
