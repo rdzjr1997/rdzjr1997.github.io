@@ -12,7 +12,7 @@ This dataset shows that some customers are leaving a credit card service. So, ou
 </p>
 
 <p align="justify">
-To acces the notebook <a href="https://rdzjr1997.github.io/Credit_Card_Customers_EDA.html">click here</a>. Hope you like it!
+To acces the notebook <a href="https://rdzjr1997.github.io/Credit_Card_Customers_EDA.html">click here</a>. Hope you enjoy it!
 </p>
 
 
