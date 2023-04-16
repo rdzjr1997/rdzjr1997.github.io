@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Credit Bank Analysis"
+title: "Heart Disease Analysis"
 author: "Francisco José"
 categories: journal
 tags: [documentation,sample]
