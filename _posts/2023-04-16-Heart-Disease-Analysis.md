@@ -8,7 +8,7 @@ image: HeartDisease.jpg
 ---
 
 <p align="justify">	
-This dataset shows that some customers are leaving a credit card service. So, our job will be to investigate the data and try do predict who is gonna get churned, so we can contact proactively these customers to avoid this process.
+This dataset shows the 2020 annual CDC survey of 400k adults related to their health status. Our job will be to investigate the data and try do predict if a person will have a heart disease based on the features analyzed.
 </p>
 
 <p align="justify">
